@@ -1,0 +1,53 @@
+Same Data – Different Models
+Housing Price Prediction Results
+================================
+
+Dataset:
+California Housing Dataset
+Target: median_house_value
+
+Train/Test Split:
+75% Train / 25% Test
+Random State: 42
+
+
+Model 1: Linear Regression
+--------------------------
+Train R² : 63.367
+Test R²  : 64.614
+RMSE     : 69189.94
+MAE      : 50959.77
+
+Observation:
+The model is simple and stable but underfits the data.
+Both train and test scores are low, indicating high bias.
+
+
+Model 2: Decision Tree
+----------------------
+Train R² : 100.000
+Test R²  : 64.907
+RMSE     : 68903.25
+MAE      : 43221.75
+
+Observation:
+The model perfectly fits training data but fails to generalize.
+This shows clear overfitting and high variance.
+
+
+Model 3: Random Forest
+---------------------
+Train R² : 97.462
+Test R²  : 82.168
+RMSE     : 49117.16
+MAE      : 31992.80
+
+Observation:
+Random Forest balances bias and variance well.
+It generalizes better and performs best on unseen data.
+
+
+Note:
+- Linear Regression: low train & test → high bias
+- Decision Tree: perfect train, low test → high variance
+- Random Forest: high train, high test → good balance
