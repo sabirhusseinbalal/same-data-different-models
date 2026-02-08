@@ -74,7 +74,7 @@ same-data-different-models/
 ### Stage 1: Regression Foundations
 - [***simple-regression-lab***](https://github.com/sabirhusseinbalal/simple-regression-lab)
 - [***house-price-prediction-ml***](https://github.com/sabirhusseinbalal/house-price-prediction-ml)
-- 👉 same-data-different-models
+- 👉 **same-data-different-models**
 
 ---
 
@@ -125,5 +125,6 @@ same-data-different-models/
 - sales-forecasting-system
 
 ---
+
 
 
