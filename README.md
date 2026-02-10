@@ -71,7 +71,7 @@ same-data-different-models/
    ```
 ---
 
-## Machine Learning Roadmap (Beginner → Advanced)
+## Machine Learning (Beginner → Advanced)
 
 ---
 
@@ -129,6 +129,7 @@ same-data-different-models/
 - sales-forecasting-system
 
 ---
+
 
 
 
