@@ -50,7 +50,6 @@ Scatter plots are used to visualize:
 ## Project Structure
 
 ```
-**
 same-data-different-models/
 ├── data/
 │   └── housing.csv
@@ -63,7 +62,6 @@ same-data-different-models/
 │   └── metrics.txt
 ├── requirements.txt
 └── README.md
-**
 ```
 
 
@@ -131,6 +129,7 @@ same-data-different-models/
 - sales-forecasting-system
 
 ---
+
 
 
 
