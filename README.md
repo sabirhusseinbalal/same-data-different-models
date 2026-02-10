@@ -48,8 +48,9 @@ Scatter plots are used to visualize:
 - Actual values vs Predicted values
 
 ## Project Structure
-**
+
 ```
+**
 same-data-different-models/
 ├── data/
 │   └── housing.csv
@@ -62,8 +63,9 @@ same-data-different-models/
 │   └── metrics.txt
 ├── requirements.txt
 └── README.md
-```
 **
+```
+
 
 ---
    ```bash
@@ -129,6 +131,7 @@ same-data-different-models/
 - sales-forecasting-system
 
 ---
+
 
 
 
